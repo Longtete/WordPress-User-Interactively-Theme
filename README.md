@@ -7,8 +7,6 @@ all the comments on the top of each file is what u looking for
 
 and will make your modification more easier
 
-glad that u use this theme,have fun :)
-
 if u realize the zip file is too large ,don't worry it's just the example image files
 
 
@@ -21,11 +19,25 @@ simply create a new folder in wordpress theme folder and bring all the zip files
 
 step 2
 
-add plugin that zip files provided to u
+visit wp-admin add plugin that zip files provided to u
 
 step 3
 
-modify the file follow the comments
+visit wp-admin theme and activate the theme called theMoon
 
+step 4
+
+go to Dashboard ->Appearance -> Edit Menus to edit your menu
+
+step 5
+
+go to Dashboard ->Appearance -> Manage Locations and set Menu Location
+
+step 6
+
+modify the file follow the comments i made for u :)
 
 #########################
+
+
+glad that u use this theme,have fun :)
