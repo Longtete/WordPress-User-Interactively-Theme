@@ -9,4 +9,4 @@ and will make your modification more easier
 
 glad that u use this theme,have fun :)
 
-if u realize the zip file is too large ,don't worry it's just the example image file
+if u realize the zip file is too large ,don't worry it's just the example image files
